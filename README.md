@@ -13,7 +13,7 @@
 ### 🎮 [Mothman Mineshaft](#)
 - desc
 
-### 🌊 [Leagues Under](#)
+### 🎮 [Leagues Under](#)
 - desc
 
 ## 📫 Get in Touch
@@ -29,4 +29,4 @@ I love outdoor rock climbing and experiencing the beauty of nature!
 
 ---
 
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordany78&show_icons=true&theme=tokyonight)
