@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Jordan Truong!
 
-<!--
-**jordany78/jordany78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th year Computer Science student at the University of British Columbia Okanagan.  
+🎮 I love making games and building creative, interactive experiences.  
+🧠 Always learning something new in tech and game dev.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 💻 Java, C#, HTML
+- 🎮 Godot, Unity
+- 🐳 Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### 🎮 [Mothman Mineshaft](#)
+A spooky underground survival game created in Godot, featuring eerie environments and challenging gameplay.
+
+### 🌊 [Leagues Under](#)
+An underwater adventure built with Godot, exploring deep-sea mysteries with puzzle and exploration elements.
+
+## 📫 Get in Touch
+- 🌐 [Website](#)
+- 💼 [LinkedIn](#https://www.linkedin.com/in/jordan-truong-a0286b223/)
+- 📧 Email: [jordantruong26@gmail.com](mailto:jordantruong26@gmail.com)
+
+## 🔍 Open to Work
+I'm currently looking for internship or entry-level opportunities in software development and game design.
+
+## ✨ Fun Fact
+I love making games and bringing stories to life through interactive experiences!
+
+---
+
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
