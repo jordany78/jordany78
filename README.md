@@ -25,8 +25,8 @@
 I'm currently looking for internship or entry-level opportunities in software development and game design.
 
 ## ✨ Fun Fact
-I love to go rock climbing either indoor or outdoor and experiencing the beauty of nature!
+I love to go rock climbing either indoor or outdoor and experience the beauty of nature!
 
 ---
 
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordany78&show_icons=true&theme=tokyonight)
+
