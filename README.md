@@ -10,10 +10,11 @@
 - 🐳 Docker
 
 ## 🚀 Projects
-### 🎮 [Mothman Mineshaft](link to deploy)
-- desc
+### 🎮 [Mothman Mineshaft](#)
+- Mothman Mineshart is a horror exploration game set in a randomly generated old mineshaft. Players must rely on their lanterns to navigate dark tunnels, collect valuable items, and evade the Mothman stalking the dark. Use stealth, limited light, and clever distractions to survive.
 
-### 🎮 [Leagues Under](link to deploy)
+
+### 🎮 [Leagues Under](#)
 - desc
 
 ## 📫 Get in Touch
