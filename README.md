@@ -18,7 +18,7 @@
 
 ## 📫 Get in Touch
 - 🌐 [Website](#)
-- 💼 [LinkedIn](#https://www.linkedin.com/in/jordan-truong-a0286b223/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jordan-truong-a0286b223/)
 - 📧 Email: [jordantruong26@gmail.com](mailto:jordantruong26@gmail.com)
 
 ## 🔍 Open to Work
