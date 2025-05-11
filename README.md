@@ -11,10 +11,10 @@
 
 ## 🚀 Projects
 ### 🎮 [Mothman Mineshaft](#)
-A spooky underground survival game created in Godot, featuring eerie environments and challenging gameplay.
+- desc
 
 ### 🌊 [Leagues Under](#)
-An underwater adventure built with Godot, exploring deep-sea mysteries with puzzle and exploration elements.
+- desc
 
 ## 📫 Get in Touch
 - 🌐 [Website](#)
@@ -25,7 +25,7 @@ An underwater adventure built with Godot, exploring deep-sea mysteries with puzz
 I'm currently looking for internship or entry-level opportunities in software development and game design.
 
 ## ✨ Fun Fact
-I love making games and bringing stories to life through interactive experiences!
+I love outdoor rock climbing and experiencing the beauty of nature!
 
 ---
 
