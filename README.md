@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jordan!
+# About me 😁
 
 🎓 I'm a 4th year Computer Science student at the University of British Columbia Okanagan.  
 🎮 I love making games and building creative, interactive experiences.  
