@@ -5,7 +5,7 @@
 🧠 I'm always learning something new in tech and game dev.
 
 ## 🛠️ Tech Stack
-- 💻 Java, C#, GDScript, HTML
+- 💻 Java, GDScript, C#, HTML, MySQL
 - 🎮 Godot, Unity
 - 🐳 Docker
 
