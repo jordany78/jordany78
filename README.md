@@ -15,7 +15,7 @@
 
 
 ### 🎮 [Leagues Under](#)
-- desc
+- Leagues Under is a co-op deep-sea horror survival game where players pilot a submarine into the crushing darkness of the ocean to explore wrecks, retrieve artifacts, and survive the lurking terrors below. Coordinate with your friends while managing limited resources and avoid drawing the attention of monstrous creatures. Every mission brings new dangers, eerie encounters, and a desperate fight to resurface alive.
 
 ## 📫 Get in Touch
 - 🌐 [Website](#)
