@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Jordan Truong!
+# 👋 Hi, I'm Jordan!
 
 🎓 I'm a 4th year Computer Science student at the University of British Columbia Okanagan.  
 🎮 I love making games and building creative, interactive experiences.  
-🧠 Always learning something new in tech and game dev.
+🧠 I'm always learning something new in tech and game dev.
 
 ## 🛠️ Tech Stack
-- 💻 Java, C#, HTML
+- 💻 Java, C#, GDScript, HTML
 - 🎮 Godot, Unity
 - 🐳 Docker
 
 ## 🚀 Projects
-### 🎮 [Mothman Mineshaft](#)
+### 🎮 [Mothman Mineshaft](link to deploy)
 - desc
 
-### 🎮 [Leagues Under](#)
+### 🎮 [Leagues Under](link to deploy)
 - desc
 
 ## 📫 Get in Touch
