@@ -14,7 +14,7 @@
 - Mothman Mineshart is a horror exploration game set in a randomly generated old mineshaft. Players must rely on their lanterns to navigate dark tunnels, collect valuable items, and evade the Mothman stalking the dark. Use stealth, limited light, and clever distractions to survive.
 
 
-### 🎮 [Leagues Under](#) (WIP)
+### 🎮 [Leagues Under](https://github.com/pmelvin43/leagues-under) (WIP)
 - Leagues Under is a co-op deep-sea horror survival game where players pilot a submarine into the crushing darkness of the ocean to explore wrecks, retrieve artifacts, and survive the lurking terrors below. Coordinate with your friends while managing limited resources and avoid drawing the attention of monstrous creatures. Every mission brings new dangers, eerie encounters, and a desperate fight to resurface alive.
 
 ## 📫 Get in Touch
