@@ -1,32 +1,27 @@
-# About me 😁
+# About me
 
-🎓 I'm a 4th year Computer Science student at the University of British Columbia Okanagan.  
-🎮 I love making games and building creative, interactive experiences.  
-🧠 I'm always learning something new in tech and game dev.
+I'm a 4th year Computer Science student at the University of British Columbia Okanagan.  
+I love making games and building creative, interactive experiences.  
+I'm always looking to improve my skills and learn something new in tech and game dev.
 
 ## 🛠️ Tech Stack
-- 💻 Java, GDScript, C#, HTML, MySQL
-- 🎮 Godot, Unity
-- 🐳 Docker
+- Python, Java, JavaScript, CSS, C#, Unity, Docker, SQL, MySQL, GitHub Actions (CI/CD)
 
 ## 🚀 Projects
-### 🎮 [Mothman Mineshaft](https://github.com/pmelvin43/lantern-lost-mothman-mineshaft) (WIP)
-- Mothman Mineshart is a horror exploration game set in a randomly generated old mineshaft. Players must rely on their lanterns to navigate dark tunnels, collect valuable items, and evade the Mothman stalking the dark. Use stealth, limited light, and clever distractions to survive.
+### [Zoopocalypse](https://github.com/jordany78/zoopocalypse) (WIP)
+- Zoopocalypse is a top-down roguelike survival game where you play as a lone zookeeper fending off endless waves of grotesquely mutated animals. Weapons fire automatically as you focus solely on movement, dodging through chaotic swarms while collecting experience to level up and choose new upgrades.
 
-
-### 🎮 [Leagues Under](https://github.com/pmelvin43/leagues-under) (WIP)
-- Leagues Under is a co-op deep-sea horror survival game where players pilot a submarine into the crushing darkness of the ocean to explore wrecks, retrieve artifacts, and survive the lurking terrors below. Coordinate with your friends while managing limited resources and avoid drawing the attention of monstrous creatures. Every mission brings new dangers, eerie encounters, and a desperate fight to resurface alive.
 
 ## 📫 Get in Touch
-- 🌐 [Website](#) (WIP)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jordan-truong-a0286b223/)
-- 📧 Email: [jordantruong26@gmail.com](mailto:jordantruong26@gmail.com)
+- [Website](https://jordany78.github.io/) (WIP)
+- [LinkedIn](https://www.linkedin.com/in/jordan-truong-a0286b223/)
+- Email: [jordantruong26@gmail.com](mailto:jordantruong26@gmail.com)
 
 ## 🔍 Open to Work
-I'm currently looking for internship or entry-level opportunities in software development and game design.
+I'm currently looking for entry-level opportunities in software development and game design.
 
 ## ✨ Fun Fact
-I love to go rock climbing either indoor or outdoor and experience the beauty of nature!
+My favourite activity outside of work is rock climbing either indoor or outdoor and experiencing the beauty of nature!
 
 ---
 
