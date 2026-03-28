@@ -9,7 +9,7 @@ I'm always looking to improve my skills and learn something new in tech and game
 
 ## 🚀 Projects
 ### [Zoopocalypse](https://github.com/jordany78/zoopocalypse) (WIP)
-- Zoopocalypse is a top-down roguelike survival game where you play as a lone zookeeper fending off endless waves of grotesquely mutated animals. Weapons fire automatically as you focus solely on movement, dodging through chaotic swarms while collecting experience to level up and choose new upgrades.
+- Zoopocalypse is a top-down roguelike survival game where you play as a zookeeper fighting an endless waves of mutated animals. Weapons fire automatically as you focus on movement, dodging through chaotic swarms while collecting experience to level up and choose new upgrades.
 
 
 ## 📫 Get in Touch
