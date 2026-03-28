@@ -18,7 +18,7 @@ I'm always looking to improve my skills and learn something new in tech and game
 - Email: [jordantruong26@gmail.com](mailto:jordantruong26@gmail.com)
 
 ## 🔍 Open to Work
-I'm currently looking for entry-level opportunities in software development and game design.
+I'm currently looking for entry-level opportunities in software development or game design.
 
 ## ✨ Fun Fact
 My favourite activity outside of work is rock climbing either indoor or outdoor and experiencing the beauty of nature!
