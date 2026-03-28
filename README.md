@@ -5,7 +5,7 @@ I love making games and building creative, interactive experiences.
 I'm always looking to improve my skills and learn something new in tech and game dev.
 
 ## 🛠️ Tech Stack
-- Python, Java, JavaScript, CSS, C#, Unity, Docker, SQL, MySQL, GitHub Actions (CI/CD)
+- Python, Java, JavaScript, CSS, C#, Unity, Docker, SQL, MySQL
 
 ## 🚀 Projects
 ### [Zoopocalypse](https://github.com/jordany78/zoopocalypse) (WIP)
