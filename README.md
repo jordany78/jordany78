@@ -8,7 +8,7 @@
 - Python, Java, JavaScript, CSS, C#, Unity, Docker, SQL, MySQL
 
 ## Projects
-### [Work Artifact Resume Builder](https://github.com/COSC-499-W2025/capstone-project-team-8)
+### [Digital Work Artifact Analyzer](https://github.com/COSC-499-W2025/capstone-project-team-8)
 - A web application that enables users to upload, scan, and analyze their work artifacts. The app helps organize and showcase selected files via a dashboard, allowing users to export a portfolio folder for employers to review their skills and growth.
 ### [Zoopocalypse](https://github.com/jordany78/zoopocalypse) (WIP)
 - Zoopocalypse is a top-down roguelike survival game where you play as a zookeeper fighting an endless waves of mutated animals. Weapons fire automatically as you focus on movement, dodging through chaotic swarms while collecting experience to level up and choose new upgrades.
